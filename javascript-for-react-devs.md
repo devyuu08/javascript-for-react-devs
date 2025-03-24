@@ -27,3 +27,9 @@
 ## 02. async-await
 
 [Callbacks](docs/02_async-await/01.Callbacks.md)
+
+[Promises](docs/02_async-await/02.Promises.md)
+
+[Async-Await](docs/02_async-await/03.Async-Await.md)
+
+[Fetch-API](docs/02_async-await/04.Fetch-API.md)
