@@ -33,3 +33,7 @@
 [Async-Await](docs/02_async-await/03.Async-Await.md)
 
 [Fetch-API](docs/02_async-await/04.Fetch-API.md)
+
+[Error Handling](docs/02_async-await/05.Error-Handling.md)
+
+[Async Summary](docs/02_async-await/06.Async-Summary.md)
