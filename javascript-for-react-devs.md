@@ -37,3 +37,11 @@
 [Error Handling](docs/02_async-await/05.Error-Handling.md)
 
 [Async Summary](docs/02_async-await/06.Async-Summary.md)
+
+## 02. functional programming
+
+[Higher Order Function](docs/03_functional-programming/01.Higher-Order-Function.md)
+
+[map / filter / reduce](docs/03_functional-programming/02.Map-Filter-Reduce.md)
+
+[Immutability](docs/03_functional-programming/03.Immutability.md)
