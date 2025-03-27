@@ -45,3 +45,9 @@
 [map / filter / reduce](docs/03_functional-programming/02.Map-Filter-Reduce.md)
 
 [Immutability](docs/03_functional-programming/03.Immutability.md)
+
+[Pure Functions](docs/03_functional-programming/04.Pure-Functions.md)
+
+[Functional Composition](docs/03_functional-programming/05.Functional-Composition.md)
+
+[Functional Programming Summary](docs/03_functional-programming/06.Functional-Programming-Summary.md)
