@@ -61,3 +61,11 @@
 [Memory optimization](docs/04_closures/03.Memory-optimization.md)
 
 [Closure Summary](docs/04_closures/04.Closure-Summary.md)
+
+## 05. Event Loop
+
+[Call Stack](docs/05_event-loop/01.Call-Stack.md)
+
+[Event Loop](docs/05_event-loop/02.Event-Loop.md)
+
+[Microtasks-Macrotasks](docs/05_event-loop/03.Microtasks-Macrotasks.md)
