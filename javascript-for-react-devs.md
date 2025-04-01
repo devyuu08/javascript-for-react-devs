@@ -69,3 +69,7 @@
 [Event Loop](docs/05_event-loop/02.Event-Loop.md)
 
 [Microtasks-Macrotasks](docs/05_event-loop/03.Microtasks-Macrotasks.md)
+
+[setTimeout vs requestAnimationFrame](docs/05_event-loop/04.setTimeout-vs-requestAnimationFrame.md)
+
+[Event Loop Summary](docs/05_event-loop/05.Event-Loop-Summary.md)
