@@ -79,3 +79,7 @@
 [This in Global](docs/06_this-context/01.This-in-Global.md)
 
 [This in Objects](docs/06_this-context/02.This-in-Objects.md)
+
+[This in Classes](docs/06_this-context/03.This-in-Classes.md)
+
+[This in Arrow Functions](docs/06_this-context/04.This-in-Arrow-Functions.md)
